@@ -27,6 +27,10 @@ sudo apt-get install python
 ## Usage
 
 ```bash
+cd FedPcap
+```
+
+```bash
 python fedpcap.py
 ```
 
